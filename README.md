@@ -12,4 +12,4 @@
   </tr>
 </table>
 
-[![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InactiveBen&bg_color=212121&line=1db954&title_color=1db954&color=333)](https://github.com/LuaanNguyen)
+[![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InactiveBen&bg_color=333&line=1db954&title_color=1db954&color=1db954)](https://github.com/LuaanNguyen)
