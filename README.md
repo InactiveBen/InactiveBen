@@ -6,15 +6,31 @@
 
 ## Hey, I'm Ben 👋
 
-Founder of [**TownHall**](https://townhall.gg) — the developer-first backend platform for forms, files, and more.
+Full-stack software engineer building [**TownHall**](https://townhall.gg) — the developer-first backend platform for forms, files, and more.
 
 I build tools that help developers ship faster, and websites that help non-profits make a bigger impact.
 
 <br>
 
+### Tech Stack
+
+**Languages:** TypeScript, JavaScript, SQL, HTML/CSS
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** Node.js, REST APIs, Webhooks
+
+**Database:** Azure SQL, PostgreSQL
+
+**Infrastructure:** Cloudflare (R2, Workers), Vercel, Azure
+
+**Tools:** Git, VS Code, Figma
+
+<br>
+
 ### Current Projects
 
-**[TownHall](https://townhall.gg)** — Backend-as-a-service with forms, file uploads, link tracking, and CRM. Built with Next.js, TypeScript, and Azure.
+**[TownHall](https://townhall.gg)** — Backend-as-a-service with forms, file uploads, link tracking, and CRM. Full-stack application handling thousands of form submissions and file uploads.
 
 <br>
 
